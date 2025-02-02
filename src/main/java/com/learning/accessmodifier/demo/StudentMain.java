@@ -1,4 +1,4 @@
-package com.learning.accessmodifier;
+package com.learning.accessmodifier.demo;
 
 public class StudentMain {
     public static void main(String[] args) {

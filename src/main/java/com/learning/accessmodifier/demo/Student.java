@@ -1,4 +1,4 @@
-package com.learning.accessmodifier;
+package com.learning.accessmodifier.demo;
 
 public class Student {
     public String name;

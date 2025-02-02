@@ -1,4 +1,4 @@
-package com.learning.accessmodifier.diffpackage;
+package com.learning.accessmodifier.demo.diffpackage;
 
 public class DifferentMain {
 

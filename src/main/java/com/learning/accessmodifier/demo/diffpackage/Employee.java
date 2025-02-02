@@ -1,6 +1,6 @@
-package com.learning.accessmodifier.diffpackage;
+package com.learning.accessmodifier.demo.diffpackage;
 
-import com.learning.accessmodifier.Student;
+import com.learning.accessmodifier.demo.Student;
 
 public class Employee {
 
