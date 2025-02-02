@@ -34,5 +34,9 @@ public class DifferentMain {
         cseStudent.setEmailId("Akshay@testing.com");
         System.out.println(cseStudent.getEmailId());
 
+        Employee e = new Employee();
+        // Check this method
+        e.test();
+
     }
 }
